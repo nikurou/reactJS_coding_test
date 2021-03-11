@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: sans-serif;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.exportButton {
+  width: 40%;
+}
